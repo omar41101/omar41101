@@ -1,47 +1,71 @@
-<h1 align="center">Hi 👋, I'm Omar Ajimi</h1>
-<h3 align="center">Back-End Developer | Blockchain Enthusiast</h3>
+<h1 align="center">
+  <strong> 
+    <h1>
+      <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px"> Hi there 😁 
+    </h1>
+    <p align="center">
+      <h4>Visitors:</h4> <img src="https://visitor-count-b8lb.vercel.app/api/omar41101?hexColor=5ed4f3" />
+    </p>
+  </strong>
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omar41101&label=Profile%20views&color=blueviolet&style=flat-square" alt="omar41101" />
-</p>
-
-- 🌱 I’m learning **Blockchain & Smart Contracts**
-- 💼 I’m currently working with **[Dar Blockchain]([https://www.darblockchain.com](https://www.darblockchain.io/pages/index.html))**, building innovative solutions.
-- 📫 Reach me at: **ajimiomar.oa@gmail.com**
-
----
-
-<h3 align="center">🛠 Technologies & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+[![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
 
 ---
 
-<h3 align="center">🌐 Connect With Me</h3>
-<p align="center">
-  <a href="https://twitter.com/AjimiomarOa" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/omar-ajimi-7a5341118/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/omar-ajimi" target="blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+<details open>
+  <summary> <h2> 🙆 Socials : </h2> </summary>
+
+<p align="left">
+  <a href="https://twitter.com/omar" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a> 
+  <a href="https://linkedin.com/in/omar-ajimi" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a> 
+  <a href="https://stackoverflow.com/users/omar-ajimi" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+  </a> 
+  <a href="https://medium.com/omar-ajimi" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
   </a>
 </p>
+</details>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<details open>
+   <summary> <h2>💎 My Values : </h2> </summary>
+  
+  🧠 Thoughtful & Inclusive Development <br/>
+  🖤 Authentic Expression <br/>
+  💡 Mindset of Continuous Learning & Curiosity <br/>
+  🙌 Teamwork & Communication <br/>
+  📊 Analytical Thinking <br/>
+  🙋‍♂️ Autonomous <br/>
+</details>
+
+---
+
+<details open>
+   <summary> <h2>🚀 Some Tools I Use : </h2> </summary>
+ 
+   ![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,docker,kubernetes,git,github,solidity,postgres)
+</details>
+
+---
+
+<details open>
+  <summary> <h2>📊 GitHub Stats : </h2></summary>
+  <p align="center">
+    <img style='width:60%;' src='https://github-readme-stats.vercel.app/api?username=omar41101&show_icons=true&theme=radical' />
+    <img style='width:60%;' src='https://github-readme-streak-stats.herokuapp.com/?user=omar41101&theme=radical' />
+    <img style='width:39%;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=omar41101&layout=compact&theme=radical' />
+  </p>
+</details>
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar41101&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar41101&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar41101&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=radical" />
 </p>
