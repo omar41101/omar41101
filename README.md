@@ -6,6 +6,7 @@
 </p>
 
 - 🌱 I’m learning **Blockchain & Smart Contracts**
+- 💼 I’m currently working with **[Dar Blockchain](https://www.darblockchain.com)**, building innovative solutions.
 - 📫 Reach me at: **ajimiomar.oa@gmail.com**
 
 ---
