@@ -8,6 +8,10 @@
     </p>
   </strong>
 </h1>
+<h4 align="center">Here's a random meme for you 😄</h4>
+<p align="center">
+  <img src="https://cataas.com/cat/gif" alt="Random Meme" width="500px" />
+</p>
 
 [![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
 
@@ -67,6 +71,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+
+
