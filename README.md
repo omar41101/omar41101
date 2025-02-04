@@ -1,7 +1,7 @@
 <h1 align="center">
   <strong> 
     <h1>
-      <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px"> Hi there, I'm Omar Ajimi ! 😁 
+      <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px"> Hi there, I'm Omar Ajimi! 😁 
     </h1>
     <p align="center">
       <h4>Visitors:</h4> <img src="https://visitor-count-b8lb.vercel.app/api/omar41101?hexColor=5ed4f3" />
