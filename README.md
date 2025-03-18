@@ -19,7 +19,7 @@
 
 <h2 align="center">🙋‍♂️ About Me</h2>
 <p align="center">
-  Meet Omar Ajimi, a 22-year-old Tunisian dreamer with a passion for gaming—especially adventure games, which make him feel like he's living the action! With a knack for hacking (don't worry, he uses his powers for good!), he's now laser-focused on web development. Combining his unique blend of gaming prowess and hacking skills, he's ready to conquer the digital realm one epic website at a time!
+  Meet Omar Ajimi 
 </p>
 
 ---
