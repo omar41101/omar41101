@@ -26,10 +26,9 @@
 
 <h2 align="center"> 🙆 Connect With Me </h2>
 <div align="center">
-  <a href="https://twitter.com/omar" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ 
   </a>
-  <a href="https://linkedin.com/in/omar-ajimi" target="_blank" rel="noreferrer">
+  <a href="[https://linkedin.com/in/omar-ajimi](https://www.linkedin.com/in/omar-ajimi-7a5341118/)" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   <a href="https://stackoverflow.com/users/omar-ajimi" target="_blank" rel="noreferrer">
