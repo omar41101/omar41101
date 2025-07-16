@@ -28,7 +28,7 @@
 <div align="center">
  
   </a>
-  <a href="[https://linkedin.com/in/omar-ajimi](https://www.linkedin.com/in/omar-ajimi-7a5341118/)" target="_blank" rel="noreferrer">
+  <a href="https://linkedin.com/in/omar-ajimi](https://www.linkedin.com/in/omar-ajimi-7a5341118/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   <a href="https://stackoverflow.com/users/omar-ajimi" target="_blank" rel="noreferrer">
