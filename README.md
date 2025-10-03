@@ -1,7 +1,7 @@
 <h1 align="center">
   <strong> 
     <h1>
-      <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px"> Hi there, I'm Omar Ajimi! 😁 
+      <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px"> Hi there 😁 
     </h1>
     <p align="center">
       <h4>Visitors:</h4> <img src="https://visitor-count-b8lb.vercel.app/api/omar41101?hexColor=5ed4f3" />
@@ -17,27 +17,14 @@
 
 ---
 
-<h2 align="center">🙋‍♂️ About Me</h2>
-<p align="center">
-  Meet Omar Ajimi 
-</p>
+ 
 
 ---
 
-<h2 align="center"> 🙆 Connect With Me </h2>
-<div align="center">
  
-  </a>
-  <a href="https://linkedin.com/in/omar-ajimi](https://www.linkedin.com/in/omar-ajimi-7a5341118/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://stackoverflow.com/users/omar-ajimi" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a> 
-  <a href="https://medium.com/omar-ajimi" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</div>
+ 
+ 
+ 
 
 ---
 
