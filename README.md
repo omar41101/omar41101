@@ -31,13 +31,10 @@ Passionate about secure smart contracts, zero-downtime deployments, and the futu
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="55" height="55"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Ethereum -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="55" height="55"/>
-
+ 
 <br><br>
 
-<!-- Next.js (black logo for dark mode) -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="90" height="60" style="filter: invert(1)"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 <!-- Hardhat -->
 <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo.8f1249e2.svg&w=256&q=75" alt="Hardhat" width="140" height="50"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,9 +44,7 @@ Passionate about secure smart contracts, zero-downtime deployments, and the futu
 <!-- Docker -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- Kubernetes -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="60" height="60"/>
-
+ 
 </div>
 
 <br>
