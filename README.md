@@ -1,12 +1,11 @@
 # Hi, I'm Omar 👋
 
-<img align="right" width="340" src="https://cataas.com/cat/says/hello%20there?size=40&color=white" alt="Cat waving" />
+<img align="right" width="360" src="https://cataas.com/cat/says/Omar?size=38&color=white&font=Impact" alt="Cat saying hi" />
 
-**Full-Stack Engineer** passionate about building scalable, user-focused web applications.
+**Full-Stack Developer** • TypeScript | React | Node.js | Kubernetes
 
-Currently crafting performant systems with **TypeScript**, **React**, and **Node.js**.  
-Love clean architecture, DevOps, and turning ideas into production-ready solutions.
+Building fast, scalable apps and occasionally breaking production (then fixing it better)
 
 ```text
-JavaScript • TypeScript • React • Next.js • Node.js • Express
-MongoDB • PostgreSQL • Docker • Kubernetes • AWS • Terraform
+TypeScript • React • Next.js • Node.js • Express • MongoDB • PostgreSQL
+Docker • Kubernetes • AWS • Terraform • Tailwind • Redis
