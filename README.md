@@ -1,61 +1,25 @@
-<h1 align="center">
-  <strong> 
-    <h1>
-      <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px"> Hi there 😁 
-    </h1>
-    <p align="center">
-      <h4>Visitors:</h4> <img src="https://visitor-count-b8lb.vercel.app/api/omar41101?hexColor=5ed4f3" />
-    </p>
-  </strong>
-</h1>
-<h4 align="center">Here's a random meme for you 😄</h4>
-<p align="center">
-  <img src="https://cataas.com/cat/gif" alt="Random Meme" width="500px" />
-</p>
+# Hi there, I'm Omar 👋
+
+![Visitor Count](https://visitor-count-b8lb.vercel.app/api/omar41101?hexColor=5ed4f3&label=Profile%20Views)
+
+> Full-Stack Developer | JavaScript & TypeScript Enthusiast | Building scalable web applications
+
+<img src="https://cataas.com/cat/gif" width="450" align="right" alt="cat typing"/>
+
+### About Me
+- 🔭 Currently working on modern web applications with React, Node.js, and cloud-native architectures  
+- 🌱 Always learning new technologies — currently deepening knowledge in Kubernetes and system design  
+- ⚡ Fun fact: I believe clean code and good coffee make the world a better place ☕  
+- 📫 How to reach me: [omar@example.com](mailto:omar@example.com) (update with real email if desired)  
+- 🇵🇸 Proudly supporting peace and justice
 
 [![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
 
 ---
 
- 
+### 🛠️ Technologies & Tools
 
----
-
- 
- 
- 
- 
-
----
-
-<h2 align="center">🚀 Technologies & Tools</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50px"/></td>
-      <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50px"/></td>
-      <td><img src="https://skillicons.dev/icons?i=react" alt="React" width="50px"/></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50px"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50px"/></td>
-      <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50px"/></td>
-      <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50px"/></td>
-      <td><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50px"/></td>
-    </tr>
-  </table>
-</div>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img style='width:60%;' src='https://github-readme-stats.vercel.app/api?username=omar41101&show_icons=true&theme=radical' />
-  <img style='width:60%;' src='https://github-readme-streak-stats.herokuapp.com/?user=omar41101&theme=radical' />
-  <img style='width:39%;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=omar41101&layout=compact&theme=radical' />
-</p>
-
----
-
-
-
+```text
+JavaScript   TypeScript   React        Next.js      Node.js
+Express      MongoDB      PostgreSQL   Docker       Kubernetes
+Git          GitHub       AWS          Vercel       Tailwind CSS
