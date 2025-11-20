@@ -63,7 +63,7 @@ Secure smart contracts · Zero-downtime deployments · On-chain + off-chain arch
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ipfs/ipfs-original-wordmark.svg" alt="IPFS" width="80" height="70"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://chain.link/badge-chainlink-developer-black" alt="Chainlink">
+  <img src="https://chain.link/badge-chainlink-developer-black" alt="Chainlink" width="120" height="50"/>
 </div>
 
 <br><br><br><br>
