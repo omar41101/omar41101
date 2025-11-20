@@ -35,12 +35,7 @@ Passionate about secure smart contracts, zero-downtime deployments, and the futu
 <br><br>
 
  
-<!-- Hardhat -->
-<img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo.8f1249e2.svg&w=256&q=75" alt="Hardhat" width="140" height="50"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- Foundry -->
-<img src="https://book.getfoundry.sh/assets/logo.png" alt="Foundry" width="50" height="50"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 <!-- Docker -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
