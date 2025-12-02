@@ -42,11 +42,4 @@ DApps • DeFi • Smart Contracts • Scalable Systems
 
 <br>
 
-<div align="center">
-  <a href= https://www.linkedin.com/in/omar-ajimi-7a5341118/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=omar41101&color=8b5cf6&style=for-the-badge&label=Views"/>
-</div>
+ 
