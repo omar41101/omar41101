@@ -43,7 +43,7 @@ DApps • DeFi • Smart Contracts • Scalable Systems
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/omar-ajimi-7a5341118/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href= https://www.linkedin.com/in/omar-ajimi-7a5341118/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
